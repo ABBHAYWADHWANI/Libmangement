@@ -2,7 +2,6 @@
 //  LibraryManagementUITests.swift
 //  LibraryManagementUITests
 //
-//  Created by Saumya Gautam on 08/01/25.
 //
 
 import XCTest
